@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey there 👋
 
-<!--
-**debbieyuen/debbieyuen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!! My name is Debbie and I am currently a graduate student at UC Berkeley studying design. I am a programmer, artist, maker, and creator. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on building a chocolate 3D printer
+- 🌱 I’m currently learning design x computer science
+- 👯 I’m looking to collaborate on physical and digital projects
+- 🤔 I’m looking for help with food recs
+- 💬 Ask me about life
+- 📫 How to reach me: deborahyuen@berkeley.edu
+- 😄 Pronouns: she/her/hers
+
